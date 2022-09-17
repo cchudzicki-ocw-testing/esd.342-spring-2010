@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents tutorials, background information, and example data
+  for the software tools used in the course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
